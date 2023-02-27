@@ -10,4 +10,8 @@ public class JesusCondoriFutbol {
 		this.nombreHobby=nombreHobby;
 		this.numeroFavorito=numeroFavorito;
 	}
+	
+	public String getEquipo() {
+		return equipo;
+	}
 }
