@@ -1,5 +1,5 @@
 package proyectoJesusCondori;
-//comentario
+
 public class JesusCondoriFutbol {
 	public String equipo;
 	public String nombreHobby;
