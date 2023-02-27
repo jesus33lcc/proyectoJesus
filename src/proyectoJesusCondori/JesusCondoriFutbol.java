@@ -31,7 +31,7 @@ public class JesusCondoriFutbol {
 	public void setNumeroFavorito(int numeroFavorito) {
 		this.numeroFavorito=numeroFavorito;
 	}
-	public void bucle() {
+	public void bucleMil() {
 		for(int i=0; i<1000; i++) {
 			System.out.println(nombreHobby);
 		}
