@@ -21,4 +21,7 @@ public class JesusCondoriFutbol {
 	public String getNombreHobby() {
 		return nombreHobby;
 	}
+	public void setNombreHobby(String nombreHobby) {
+		this.nombreHobby=nombreHobby;
+	}
 }
