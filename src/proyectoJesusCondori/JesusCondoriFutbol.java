@@ -25,7 +25,10 @@ public class JesusCondoriFutbol {
 		this.nombreHobby=nombreHobby;
 	}
 
-	public int getNumeroEquipo() {
+	public int getNumeroFavorito() {
 		return numeroFavorito;
+	}
+	public void setNumeroFavorito(int numeroFavorito) {
+		this.numeroFavorito=numeroFavorito;
 	}
 }
